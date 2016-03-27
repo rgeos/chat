@@ -1,0 +1,22 @@
+B: Hello! How are you?
+H: I am great
+B: Do you like sports?
+H: I like baseball.
+B: great
+H: Do you like sports?
+B: I do
+H: What sports do you like?
+B: I like baseball.
+H: great
+B: Do you like sports?
+H: I do
+B: What sports do you like?
+H: I like tennis.
+B: great
+H: very nice
+B: What is your name.
+H: My name is Jim
+B: Hello Jim
+H: I have to go now
+B: ok, see you
+H: bye
