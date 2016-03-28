@@ -16,10 +16,10 @@ human = ct.ClassText()
 while True:
 
 	# the greeting from the bot (Botty)
-	print "B: %s" % bot.getText()
+	print "BOTTY: %s" % bot.getText()
 
 	# input from the human
-	human.setText(raw_input("H: ").strip())
+	human.setText(raw_input("HUMAN: ").strip())
 
 	# exit if below is true
 	if human.getText() == "" or human.getText().lower() == "bye":
